@@ -3,8 +3,8 @@
 Automação de movimento de cursor suave usando Windows Forms
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET%20Framework-4.8-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Language-VB.NET-512BD4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Structure-.NET%2010.0-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-CS.NET-512BD4?style=for-the-badge">
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge">
 </p>
 
